@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Plugins Stats Dashboard\n"
+"POT-Creation-Date: 2021-01-23 12:56-0500\n"
+"PO-Revision-Date: 2021-01-23 12:57-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: plugins-stats-dashboard.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: admin/assets/src/js/components/TableRow.js:27
+msgid "Less than 10"
+msgstr "Less than 10"
+
+#: admin/assets/src/js/dashboard-widget.js:89
+#: admin/partials/plugins-stats-dashboard-widget.php:22
+msgid "Plugin"
+msgstr "Plugin"
+
+#: admin/assets/src/js/settings.js:89
+msgid "Plugins Stats Dashboard Settings"
+msgstr "Plugins Stats Dashboard Settings"
+
+#: admin/assets/src/js/settings.js:103
+msgid "Settings saved!"
+msgstr "Settings saved!"
+
+#: admin/assets/src/js/settings.js:107
+msgid "General"
+msgstr "General"
+
+#: admin/assets/src/js/settings.js:113
+msgid "Author"
+msgstr "Author"
+
+#: admin/assets/src/js/settings.js:114
+msgid "WordPress.org username for the plugin author."
+msgstr "WordPress.org username for the plugin author."
+
+#: admin/assets/src/js/settings.js:120
+msgid "Update Frequency"
+msgstr "Update Frequency"
+
+#: admin/assets/src/js/settings.js:126
+msgid "How often should stats from WordPress.org be refreshed?"
+msgstr "How often should stats from WordPress.org be refreshed?"
+
+#: admin/assets/src/js/settings.js:138
+msgid "Save"
+msgstr "Save"
+
+#: admin/class-plugins-stats-dashboard-admin.php:102
+msgid "Error loading stats via AJAX!"
+msgstr "Error loading stats via AJAX!"
+
+#: admin/class-plugins-stats-dashboard-admin.php:186
+msgid "Missing data."
+msgstr "Missing data."
+
+#: admin/class-plugins-stats-dashboard-admin.php:225
+#, php-format
+msgid "Plugin Stats for %s"
+msgstr "Plugin Stats for %s"
+
+#: admin/class-plugins-stats-dashboard-admin.php:247
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr "<a href=\"%s\">Settings</a>"
+
+#. Plugin Name of the plugin/theme
+#: admin/class-plugins-stats-dashboard-admin.php:262
+#: admin/class-plugins-stats-dashboard-admin.php:263
+msgid "Plugins Stats Dashboard"
+msgstr "Plugins Stats Dashboard"
+
+#: admin/class-plugins-stats-dashboard-admin.php:321
+msgid "Downloads"
+msgstr "Downloads"
+
+#: admin/class-plugins-stats-dashboard-admin.php:325
+msgid "Active Installs"
+msgstr "Active Installs"
+
+#: admin/class-plugins-stats-dashboard-admin.php:329
+msgid "Version"
+msgstr "Version"
+
+#: admin/class-plugins-stats-dashboard-admin.php:346
+msgid "5 Minutes"
+msgstr "5 Minutes"
+
+#: admin/class-plugins-stats-dashboard-admin.php:350
+msgid "15 Minutes"
+msgstr "15 Minutes"
+
+#: admin/class-plugins-stats-dashboard-admin.php:354
+msgid "30 Minutes"
+msgstr "30 Minutes"
+
+#: admin/class-plugins-stats-dashboard-admin.php:358
+msgid "1 Hour"
+msgstr "1 Hour"
+
+#: admin/class-plugins-stats-dashboard-admin.php:362
+msgid "6 Hours"
+msgstr "6 Hours"
+
+#: admin/class-plugins-stats-dashboard-admin.php:366
+msgid "12 Hours"
+msgstr "12 Hours"
+
+#: admin/class-plugins-stats-dashboard-admin.php:370
+msgid "24 Hours"
+msgstr "24 Hours"
+
+#: admin/class-plugins-stats-dashboard-admin.php:374
+msgid "7 Days"
+msgstr "7 Days"
+
+#: admin/class-plugins-stats-dashboard-admin.php:390
+msgid "*Updated every "
+msgstr "*Updated every "
+
+#: admin/class-plugins-stats-dashboard-admin.php:394
+#, php-format
+msgid "minute"
+msgid_plural "%d minutes"
+msgstr[0] "minute"
+msgstr[1] "%d minutes"
+
+#: admin/class-plugins-stats-dashboard-admin.php:397
+#, php-format
+msgid "hour"
+msgid_plural "%d hours"
+msgstr[0] "hour"
+msgstr[1] "%d hours"
+
+#: admin/class-plugins-stats-dashboard-admin.php:400
+#, php-format
+msgid "day"
+msgid_plural "%d days"
+msgstr[0] "day"
+msgstr[1] "%d days"
+
+#: admin/partials/plugins-stats-dashboard-settings.php:23
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://dream-encode.com"
+msgstr "https://dream-encode.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Dashboard widget to display plugin stats from WordPress.org for a specific "
+"author."
+msgstr ""
+"Dashboard widget to display plugin stats from WordPress.org for a specific "
+"author."
+
+#. Author of the plugin/theme
+msgid "David Baumwald"
+msgstr "David Baumwald"
